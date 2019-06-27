@@ -1,2 +1,2 @@
-# sqliteProyecto
-haciendo un listado 
+# XamarinSQL
+App Xamarin con SQLite
